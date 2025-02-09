@@ -1,0 +1,661 @@
+{
+   "checksum": "ec0e80cbd2750798b32cb393ac7b00e4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13125873929395018",
+            "date_last_used": "0",
+            "guid": "6061ff0f-382f-49c5-b1f3-d7d5aad20e15",
+            "id": "51",
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13267078149512634",
+            "date_last_used": "0",
+            "guid": "881e686d-36c4-444d-bcd2-3153d483f861",
+            "id": "52",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13267078149512829",
+            "date_last_used": "0",
+            "guid": "a5683cf3-4a7c-40d9-8106-3b72a146bff5",
+            "id": "53",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13195418984630584",
+            "date_last_used": "0",
+            "guid": "dac71a7e-a6c1-47ec-b160-340c59689f63",
+            "id": "54",
+            "name": "News",
+            "type": "url",
+            "url": "https://news.google.com/"
+         }, {
+            "date_added": "13267078149512214",
+            "date_last_used": "0",
+            "guid": "86f76ab3-6c10-4021-aa2e-d0115f2e8ebc",
+            "id": "55",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13266156208927760",
+            "date_last_used": "0",
+            "guid": "a66d5e54-0564-4a45-9979-3408528d10d1",
+            "id": "56",
+            "name": "Home - Shopme Admin",
+            "type": "url",
+            "url": "http://localhost:8080/ShopmeAdmin/"
+         }, {
+            "date_added": "13266156432440107",
+            "date_last_used": "0",
+            "guid": "fd4b301a-585a-4744-9be7-13aa34867ed6",
+            "id": "57",
+            "name": "Shopme - Client",
+            "type": "url",
+            "url": "http://localhost/Shopme/"
+         }, {
+            "date_added": "13267196314663385",
+            "date_last_used": "0",
+            "guid": "6549bafa-7e37-4ca5-b08b-187208f03382",
+            "id": "58",
+            "name": "eSupport | PTC",
+            "type": "url",
+            "url": "https://www.ptc.com/en/support"
+         }, {
+            "date_added": "13267196560268900",
+            "date_last_used": "0",
+            "guid": "72213ad8-f14f-4eb7-8944-3b6687bf89e9",
+            "id": "59",
+            "name": "Training Central Home - PTC University Training Central",
+            "type": "url",
+            "url": "https://trainingcentral.ptcu.com/pages/22/training-central-home"
+         }, {
+            "date_added": "13267196905189949",
+            "date_last_used": "0",
+            "guid": "973a45b2-22dd-4e54-b854-f3459ca0b8ed",
+            "id": "60",
+            "name": "PTC Academy",
+            "type": "url",
+            "url": "https://lms.ptc.com/#mylearnsection"
+         }, {
+            "date_added": "13279282719778869",
+            "date_last_used": "0",
+            "guid": "f1f01e79-eb65-4447-bd77-3e7b75956716",
+            "id": "61",
+            "name": "Blue Star Test URL",
+            "type": "url",
+            "url": "http://bslwctstappsrv.bluestarindia.com/Windchill/servlet/WindchillGW"
+         }, {
+            "date_added": "13190240050253700",
+            "date_last_used": "0",
+            "guid": "c107dcbb-abf1-492d-9945-9099ae14e9b8",
+            "id": "62",
+            "name": "Bing",
+            "type": "url",
+            "url": "http://go.microsoft.com/fwlink/p/?LinkId=255142"
+         }, {
+            "children": [ {
+               "children": [  ],
+               "date_added": "13238312341486647",
+               "date_last_used": "0",
+               "date_modified": "13238312341486647",
+               "guid": "6c8ebc2d-7870-4995-b85e-0cf70310decd",
+               "id": "64",
+               "name": "Favorites Bar",
+               "type": "folder"
+            }, {
+               "date_added": "13190240065931417",
+               "date_last_used": "0",
+               "guid": "73b3d043-5fa9-4fdd-85bb-dbd46e93066e",
+               "id": "65",
+               "name": "Bing",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/p/?LinkId=255142"
+            } ],
+            "date_added": "13238312341486339",
+            "date_last_used": "0",
+            "date_modified": "13238312341486339",
+            "guid": "d6a568cc-290e-4bc5-8054-5ba3c6e7ef96",
+            "id": "63",
+            "name": "Imported from Internet Explorer",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [  ],
+               "date_added": "13238312341487084",
+               "date_last_used": "0",
+               "date_modified": "13238312341487084",
+               "guid": "ef8788b6-6417-4b6d-a4cb-48c8c29f20fd",
+               "id": "67",
+               "name": "Favorites Bar",
+               "type": "folder"
+            }, {
+               "date_added": "13190240067125615",
+               "date_last_used": "0",
+               "guid": "ee057a77-a54b-44ca-abd4-49baf203d78e",
+               "id": "68",
+               "name": "Bing",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/p/?LinkId=255142"
+            } ],
+            "date_added": "13238312341486766",
+            "date_last_used": "0",
+            "date_modified": "13238312341486766",
+            "guid": "fe4295c6-0bf8-4747-84d1-40f202c0c435",
+            "id": "66",
+            "name": "Imported from Internet Explorer (2)",
+            "type": "folder"
+         }, {
+            "date_added": "13176533059963174",
+            "date_last_used": "0",
+            "guid": "e09c2501-f116-4ab3-b688-a6ec0b7199c6",
+            "id": "69",
+            "name": "Amazon.com – Online Shopping",
+            "type": "url",
+            "url": "http://redirect.hp.com/svs/rdr?locale=en_us&c=142&bd=pavilion&tp=iefavbar&s=amazon&pf=cndt&TYPE=4"
+         }, {
+            "date_added": "13072123793349224",
+            "date_last_used": "0",
+            "guid": "7d38e5de-4d22-49a5-8569-52b7a7038adc",
+            "id": "70",
+            "name": "Apple",
+            "type": "url",
+            "url": "http://www.apple.com/"
+         }, {
+            "date_added": "13072123795363336",
+            "date_last_used": "0",
+            "guid": "2e66f7da-a2a3-4028-ad2b-1d42576df627",
+            "id": "71",
+            "name": "Disney",
+            "type": "url",
+            "url": "http://www.disney.com/"
+         }, {
+            "date_added": "13064963089131938",
+            "date_last_used": "0",
+            "guid": "552797a2-b239-4c7c-9c8f-2fc2bc2f1450",
+            "id": "72",
+            "name": "Dublin Schools - Welcome",
+            "type": "url",
+            "url": "https://wwwreg.dublinschools.net/welcome/index.php"
+         }, {
+            "date_added": "13072123795385335",
+            "date_last_used": "0",
+            "guid": "1d23189e-3310-41f1-b127-218ba39ba988",
+            "id": "73",
+            "name": "ESPN",
+            "type": "url",
+            "url": "http://espn.go.com/"
+         }, {
+            "date_added": "13176533059963174",
+            "date_last_used": "0",
+            "guid": "866af4f6-2ca9-46a9-93d1-810062684552",
+            "id": "74",
+            "name": "TripAdvisor",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=all&c=none&locale=all&pf=cndt&s=TripAdvisor_iefav&tp=iefavs"
+         }, {
+            "date_added": "13072123795428338",
+            "date_last_used": "0",
+            "guid": "f141afa8-99ce-4f65-8d59-748c9d5afdf6",
+            "id": "75",
+            "name": "Yahoo!",
+            "type": "url",
+            "url": "http://www.yahoo.com/"
+         }, {
+            "date_added": "13294860228979922",
+            "date_last_used": "0",
+            "guid": "362fb3a7-30ae-4783-ae12-87c39973edcd",
+            "id": "76",
+            "name": "3DS Benchmarking - Planning - All Documents",
+            "type": "url",
+            "url": "https://prolim365.sharepoint.com/sites/3DSBenchmarking/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2F3DSBenchmarking%2FShared%20Documents%2FGeneral%2FPlanning&viewid=3799ea7d%2Dcf69%2D4e79%2D8105%2D2d660b266a07"
+         }, {
+            "children": [ {
+               "date_added": "13296062609543815",
+               "date_last_used": "0",
+               "guid": "9e014bb5-9653-4374-a18d-cc871094a7f7",
+               "id": "78",
+               "name": "10 Reasons to Move to CATIA 3DEXPERIENCE From CATIA V5 | TECHNIA",
+               "type": "url",
+               "url": "https://www.technia.com/blog/10-reasons-to-move-to-catia-3dexperience-from-catia-v5/"
+            }, {
+               "date_added": "13296062649729873",
+               "date_last_used": "0",
+               "guid": "6f5d4163-b0a3-4219-8415-6b7b70d39710",
+               "id": "79",
+               "name": "Transition from CATIA V5-6 to 3DEXPERIENCE: At First Glance - InFlow Technology",
+               "type": "url",
+               "url": "https://www.inflow-tech.com/blog/2018/03/transition-from-catia-v5-6-to-3dexperience-at-first-glance/"
+            } ],
+            "date_added": "13329901292175478",
+            "date_last_used": "0",
+            "date_modified": "13329901292175478",
+            "guid": "5d828b0a-e2a9-491b-9b68-5aad0b6bdd41",
+            "id": "77",
+            "name": "3DS Benchmarking Project",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13372096383354879",
+               "date_last_used": "0",
+               "guid": "13f7670d-3fc6-46fb-ba76-45eee032232b",
+               "id": "81",
+               "name": "Lenovo Support",
+               "type": "url",
+               "url": "http://support.lenovo.com/"
+            }, {
+               "date_added": "13372096383363889",
+               "date_last_used": "0",
+               "guid": "92f836f0-4b51-42c3-ab89-2225196f270f",
+               "id": "82",
+               "name": "Lenovo",
+               "type": "url",
+               "url": "http://www.lenovo.com/"
+            } ],
+            "date_added": "13372096869930441",
+            "date_last_used": "0",
+            "date_modified": "13372096869930441",
+            "guid": "943bffb7-08b2-41c8-a760-d6f72c16b030",
+            "id": "80",
+            "name": "Lenovo",
+            "type": "folder"
+         } ],
+         "date_added": "13383529509058009",
+         "date_last_used": "0",
+         "date_modified": "13294860228979922",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13244740805007826",
+            "date_last_used": "0",
+            "guid": "909afd2c-9252-4d54-814d-27d2b701c8b6",
+            "id": "17",
+            "name": "How to Save Time and Effort Integrating PLM and ERP | TECHNIA",
+            "type": "url",
+            "url": "https://www.technia.com/blog/how-to-save-time-and-effort-integrating-plm-and-erp/"
+         }, {
+            "date_added": "13244740845607434",
+            "date_last_used": "0",
+            "guid": "5779e0b0-7158-49e5-a3ac-13bd333358c9",
+            "id": "18",
+            "name": "CAD Data Management on the 3DEXPERIENCE Platform | TECHNIA",
+            "type": "url",
+            "url": "https://www.technia.com/blog/cad-data-management-on-the-3dexperience-platform/"
+         }, {
+            "date_added": "13259081661048382",
+            "date_last_used": "0",
+            "guid": "1bc54521-7fb4-44b7-bd65-2d8c06356ea5",
+            "id": "19",
+            "name": "9 Class Sample Paper 2020-2021 PDF Download - Gyan study point",
+            "type": "url",
+            "url": "https://www.gyanstudypoint.com/2020/12/9-Class-All-Subjects-Sample-Paper-2020-2021-PDF-Download.html"
+         }, {
+            "children": [ {
+               "date_added": "13097221749511821",
+               "date_last_used": "0",
+               "guid": "d2042d4f-0cac-449c-af63-709090fc1d27",
+               "id": "21",
+               "name": "Dublin Schools - Welcome",
+               "type": "url",
+               "url": "https://wwwreg.dublinschools.net/welcome/index.php"
+            }, {
+               "date_added": "13097221749660988",
+               "date_last_used": "0",
+               "guid": "2fcd9d9b-98f7-467d-8fb3-50766c0d15bd",
+               "id": "22",
+               "name": "Amazon.com – Online Shopping",
+               "type": "url",
+               "url": "http://redirect.hp.com/svs/rdr?locale=en_us&c=142&bd=pavilion&tp=iefavbar&s=amazon&pf=cndt&TYPE=4"
+            }, {
+               "date_added": "13097221749728003",
+               "date_last_used": "0",
+               "guid": "37131dd3-272c-4e8e-9015-0ae11be26c08",
+               "id": "23",
+               "name": "TripAdvisor",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=all&c=none&locale=all&pf=cndt&s=TripAdvisor_iefav&tp=iefavs"
+            }, {
+               "date_added": "13097221749845276",
+               "date_last_used": "0",
+               "guid": "96a04b48-a7c1-4652-9f5e-7f79abda8a12",
+               "id": "24",
+               "name": "Apple",
+               "type": "url",
+               "url": "http://www.apple.com/"
+            }, {
+               "date_added": "13097221749909285",
+               "date_last_used": "0",
+               "guid": "6c9a7a90-0f41-4e64-b1dc-a48db9ea7818",
+               "id": "25",
+               "name": "Disney",
+               "type": "url",
+               "url": "http://www.disney.com/"
+            }, {
+               "date_added": "13097221749973294",
+               "date_last_used": "0",
+               "guid": "94bc6b76-62d0-4514-bda8-d20298728725",
+               "id": "26",
+               "name": "ESPN",
+               "type": "url",
+               "url": "http://espn.go.com/"
+            }, {
+               "date_added": "13097221750009298",
+               "date_last_used": "0",
+               "guid": "dbd0af27-6052-4e51-bff4-ec2b329e1c8e",
+               "id": "27",
+               "name": "Yahoo!",
+               "type": "url",
+               "url": "http://www.yahoo.com/"
+            } ],
+            "date_added": "13297318835026352",
+            "date_last_used": "0",
+            "date_modified": "13297318835026352",
+            "guid": "b40272eb-68e0-4e30-83c7-e7c653e8cd6d",
+            "id": "20",
+            "name": "BookmarksBar",
+            "type": "folder"
+         }, {
+            "date_added": "13072123795496341",
+            "date_last_used": "0",
+            "guid": "705ace00-e26a-4ce1-a1ba-af529385b19e",
+            "id": "28",
+            "name": "Citibank India Home",
+            "type": "url",
+            "url": "http://www.citibank.co.in/"
+         }, {
+            "date_added": "13072123795515342",
+            "date_last_used": "0",
+            "guid": "12bde70c-d83e-4ea1-a024-68db12874c47",
+            "id": "29",
+            "name": "Standard Chartered cc payment",
+            "type": "url",
+            "url": "http://www.standardchartered.co.in/_documents/billpay/billpay.html"
+         }, {
+            "date_added": "13072123795529342",
+            "date_last_used": "0",
+            "guid": "a8e949b5-db2e-4e1c-8950-542a4850ef75",
+            "id": "30",
+            "name": "Standard Chartered Bank CardNet",
+            "type": "url",
+            "url": "https://www.billdesk.com/pgidsk/pgmerc/standardchartered/scb_cardResponse.jsp"
+         }, {
+            "children": [ {
+               "date_added": "13176533059994422",
+               "date_last_used": "0",
+               "guid": "9fff7270-56f2-4a68-a1a8-8fe1bd1a6c8d",
+               "id": "32",
+               "name": "Accessories",
+               "type": "url",
+               "url": "http://redirect.hp.com/svs/rdr?TYPE=4&tp=iefavs&s=hpaccessories&pf=cndt&locale=en_us&bd=all&c=144"
+            }, {
+               "date_added": "13176533059994422",
+               "date_last_used": "0",
+               "guid": "bda8b8da-3d7c-424c-9636-6f4d8b604dcf",
+               "id": "33",
+               "name": "Amazon.com – Online Shopping",
+               "type": "url",
+               "url": "http://redirect.hp.com/svs/rdr?locale=en_us&c=142&bd=pavilion&tp=iefavbar&s=amazon&pf=cndt&TYPE=4"
+            }, {
+               "date_added": "13176533059994422",
+               "date_last_used": "0",
+               "guid": "eb0a0e9d-aeda-42bd-a945-725c4a020e83",
+               "id": "34",
+               "name": "Best Buy",
+               "type": "url",
+               "url": "http://www.bestbuy.com/"
+            }, {
+               "date_added": "13176533059994422",
+               "date_last_used": "0",
+               "guid": "3771526f-6b67-421f-9617-df75262bc7c3",
+               "id": "35",
+               "name": "HP Blog-TheNextBench",
+               "type": "url",
+               "url": "http://redirect.hp.com/svs/rdr?TYPE=4&tp=iefavs&s=hp_blog&pf=cndt&locale=en_us&bd=all&c=144"
+            }, {
+               "date_added": "13176533059994422",
+               "date_last_used": "0",
+               "guid": "99df4c54-4d31-4380-8a2d-3188141107e1",
+               "id": "36",
+               "name": "HP Creative Studio",
+               "type": "url",
+               "url": "http://redirect.hp.com/svs/rdr?TYPE=4&tp=iefavs&s=activitycenter&pf=cndt&locale=en_us&bd=all&c=144"
+            }, {
+               "date_added": "13176533059978801",
+               "date_last_used": "0",
+               "guid": "12519069-0345-4bed-b481-9d7dbcbcc841",
+               "id": "37",
+               "name": "HP Smart Friend",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=all&c=143&locale=en_us&pf=cndt&s=sf_volume_ie_dt&tp=iefavs"
+            }, {
+               "date_added": "13176533059978801",
+               "date_last_used": "0",
+               "guid": "8fb5824d-5ea2-461e-a12f-5df792dd0313",
+               "id": "38",
+               "name": "HP Store",
+               "type": "url",
+               "url": "http://redirect.hp.com/svs/rdr?TYPE=4&tp=iefavs&s=hpstore&pf=cndt&locale=en_us&bd=all&c=144"
+            }, {
+               "date_added": "13176533059978801",
+               "date_last_used": "0",
+               "guid": "deda75b7-56ea-49fd-a9ec-2eff221f82c3",
+               "id": "39",
+               "name": "Printing",
+               "type": "url",
+               "url": "http://redirect.hp.com/svs/rdr?TYPE=4&tp=iefavs&s=printing&pf=cndt&locale=en_us&bd=all&c=144"
+            }, {
+               "date_added": "13176533059978801",
+               "date_last_used": "0",
+               "guid": "3f4b2fce-5c1d-4efd-8a43-de10a997abba",
+               "id": "40",
+               "name": "Snapfish",
+               "type": "url",
+               "url": "http://www.snapfish.com/hp_desktop_desktopicon_2014_us"
+            }, {
+               "date_added": "13176533059978801",
+               "date_last_used": "0",
+               "guid": "1795d723-e034-4809-82df-4f4d81af76d9",
+               "id": "41",
+               "name": "Software and Driver Downloads",
+               "type": "url",
+               "url": "http://redirect.hp.com/svs/rdr?TYPE=4&tp=iefavs&s=downloads&pf=cndt&locale=en_us&bd=all&c=144"
+            }, {
+               "date_added": "13176533059978801",
+               "date_last_used": "0",
+               "guid": "e7777460-407a-4c93-9af1-768e44505e8b",
+               "id": "42",
+               "name": "WildTangent Games for HP",
+               "type": "url",
+               "url": "http://redirect.hp.com/svs/rdr?TYPE=4&tp=iefavs&s=myhpgames&pf=cndt&locale=en-us&bd=all&c=144"
+            } ],
+            "date_added": "13297318835026651",
+            "date_last_used": "0",
+            "date_modified": "13297318835026651",
+            "guid": "ab8a09a0-e5de-4a29-b48a-79ea2aef6742",
+            "id": "31",
+            "name": "HP",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13097855039518365",
+               "date_last_used": "0",
+               "guid": "90aec50e-003a-496b-9957-42f6a8e26c2e",
+               "id": "44",
+               "name": "Dublin Schools - Welcome",
+               "type": "url",
+               "url": "https://wwwreg.dublinschools.net/welcome/index.php"
+            }, {
+               "date_added": "13097855039634222",
+               "date_last_used": "0",
+               "guid": "4a3ecef2-f541-4950-97a2-1601b08441ac",
+               "id": "45",
+               "name": "Amazon.com – Online Shopping",
+               "type": "url",
+               "url": "http://redirect.hp.com/svs/rdr?locale=en_us&c=142&bd=pavilion&tp=iefavbar&s=amazon&pf=cndt&TYPE=4"
+            }, {
+               "date_added": "13097855039750146",
+               "date_last_used": "0",
+               "guid": "462b63e3-70dd-44ab-b3cc-8d43c916b4f9",
+               "id": "46",
+               "name": "TripAdvisor",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=all&c=none&locale=all&pf=cndt&s=TripAdvisor_iefav&tp=iefavs"
+            }, {
+               "date_added": "13097855039803528",
+               "date_last_used": "0",
+               "guid": "1a77f7ae-e764-4531-b7d5-33cc09dc1a14",
+               "id": "47",
+               "name": "Apple",
+               "type": "url",
+               "url": "http://www.apple.com/"
+            }, {
+               "date_added": "13097855039819157",
+               "date_last_used": "0",
+               "guid": "f18d5f53-1376-4813-8023-4c918bad8474",
+               "id": "48",
+               "name": "Disney",
+               "type": "url",
+               "url": "http://www.disney.com/"
+            }, {
+               "date_added": "13097855039866544",
+               "date_last_used": "0",
+               "guid": "3a88deb3-3ed5-4702-9ec5-6cdee7cd0461",
+               "id": "49",
+               "name": "ESPN",
+               "type": "url",
+               "url": "http://espn.go.com/"
+            }, {
+               "date_added": "13097855039888184",
+               "date_last_used": "0",
+               "guid": "4c20f79f-1229-4880-ac9e-0d14127a4516",
+               "id": "50",
+               "name": "Yahoo!",
+               "type": "url",
+               "url": "http://www.yahoo.com/"
+            } ],
+            "date_added": "13297318835026936",
+            "date_last_used": "0",
+            "date_modified": "13297318835026936",
+            "guid": "547d3351-b753-47ac-8126-b05b9d634528",
+            "id": "43",
+            "name": "BookmarksBar (2)",
+            "type": "folder"
+         } ],
+         "date_added": "13383529509058011",
+         "date_last_used": "0",
+         "date_modified": "13259081661048382",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13098325947381756",
+            "date_last_used": "0",
+            "guid": "52c7453b-100c-4642-a914-92f941caf743",
+            "id": "6",
+            "name": "NDTV.com: Latest News, India News, Business, Cricket, Bollywood, Video & Breaking News",
+            "type": "url",
+            "url": "http://www.ndtv.com/us?site=full"
+         }, {
+            "date_added": "13103724692097436",
+            "date_last_used": "0",
+            "guid": "fc72f823-2228-4a70-8ce7-ba037e2cb0e2",
+            "id": "7",
+            "name": "mcpeseeds.net",
+            "type": "url",
+            "url": "http://mcpeseeds.net/"
+         }, {
+            "date_added": "13103990183506329",
+            "date_last_used": "0",
+            "guid": "5ef8879a-3674-49dc-9838-b0f4db21eed0",
+            "id": "8",
+            "name": "https://mail.google.com/mail/mu/mp/905/#tl/priority/%5Esmartlabel_personal",
+            "type": "url",
+            "url": "https://mail.google.com/mail/mu/mp/905/#tl/priority/%5Esmartlabel_personal"
+         }, {
+            "date_added": "13128599235304966",
+            "date_last_used": "0",
+            "guid": "42360103-a37b-42b1-bf68-ca693caecbc3",
+            "id": "9",
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com/"
+         }, {
+            "date_added": "13131061168612413",
+            "date_last_used": "0",
+            "guid": "04a53821-9838-4a8b-899a-2627cc0bce5c",
+            "id": "10",
+            "name": "'He Demeans Himself,' Rahul Gandhi Hits Back At PM Modi Over 'Raincoat' Remark",
+            "type": "url",
+            "url": "http://www.ndtv.com/india-news/he-demeans-himself-rahul-gandhi-hits-back-at-pm-modi-over-raincoat-remark-1657443?pfrom=home-lateststories"
+         }, {
+            "date_added": "13264889467148294",
+            "date_last_used": "0",
+            "guid": "2eac8077-2783-45bc-aca6-add058694150",
+            "id": "11",
+            "name": "Login - Shopme Admin",
+            "type": "url",
+            "url": "http://192.168.1.2:8080/ShopmeAdmin/login"
+         }, {
+            "date_added": "13266473364982342",
+            "date_last_used": "0",
+            "guid": "3184ade8-cfb7-4dc9-b597-6438f4c7e808",
+            "id": "12",
+            "name": "Karnataka bank Internet Banking Login",
+            "type": "url",
+            "url": "https://moneyclick.ktkbank.com/BankAwayRetail/AuthenticationController?__START_TRAN_FLAG__=Y&FORMSGROUP_ID__=AuthenticationFG&__EVENT_ID__=LOAD&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=KBL&LANGUAGE_ID=001&USR_TYPE=1"
+         }, {
+            "date_added": "13280657979783244",
+            "date_last_used": "0",
+            "guid": "2cd0af07-5788-4f42-98b0-b7b6ba597f56",
+            "id": "13",
+            "name": "Merchit - Track your Order",
+            "type": "url",
+            "url": "https://merchit.shiprocket.co/tracking/order/1234"
+         }, {
+            "date_added": "13280661407795409",
+            "date_last_used": "0",
+            "guid": "b2349d03-8e5c-447e-a928-4005b95c8ecf",
+            "id": "14",
+            "name": "OnePlus Account - OnePlus (India)",
+            "type": "url",
+            "url": "https://www.oneplus.in/sales/order/history#/"
+         }, {
+            "date_added": "13291974344582373",
+            "date_last_used": "0",
+            "guid": "d8a2a9b8-71c9-46da-a68b-d3d6f20b16a5",
+            "id": "15",
+            "name": "6 BHK LUXURY BUNGLOW / FARM HOUSE DESIGN WITH SWIMMING POOL (3D-87) - Build It Home",
+            "type": "url",
+            "url": "https://buildithome.com/property/6-bhk-luxury-bunglow-farm-house-design-with-swimming-pool/"
+         }, {
+            "date_added": "13293438508504329",
+            "date_last_used": "0",
+            "guid": "b280b9ce-9489-4c00-9e9f-bbc471b0975b",
+            "id": "16",
+            "name": "(69) YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         } ],
+         "date_added": "13383529509058012",
+         "date_last_used": "0",
+         "date_modified": "13293438508504329",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
